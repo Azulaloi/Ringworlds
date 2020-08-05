@@ -1,0 +1,5 @@
+# Ringworlds
+
+This is a Starbound mod that adds a new 'planet' type to the universe: ringworlds. Majestic ring-like superstructures, they rotate in space to generate gravity via centrifugal force. Their inner surface surfaces are coated in planet-like terrain, and have atmospheres capable of supporting rich and diverse ecosystems. When, by whom, how, and for what purpose they were built is a mystery - but they have been left throughout the universe. What kind of ancient secrets - be they boon or bane - could these ringworlds contain?
+
+The ringworlds will be found rarely throughout the universe, like planets, and come in various flavours. They will possess versions of normal starbound biomes as well as new ones, with new dungeons. The rings will harbor new creatures, wildlife, monsters, and ancient entities... and incredible treasures. But most of all, they'll have giant walls at the edge so you can't see that world wrapping is hard coded. That part is very important. Also it'd be cool to add a mission or quest maybe.
