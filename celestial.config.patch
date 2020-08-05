@@ -1,0 +1,27 @@
+[
+	[
+		{	"op" : "add",
+			"path" : "/terrestrialHorizonGraphics/az-ringworld",
+			"value" : {
+				"baseImages" : "/celestial/system/terrestrial/horizon/textures/az-ringworld_<selector>.png",
+				"maskPerPlanetRange" : [0, 0]
+			}
+		},
+		{	"op" : "add",
+			"path" : "/terrestrialGraphics/az-ringworld",
+			"value" : {
+				"baseImages" : "/celestial/system/terrestrial/biomes/az-ringworld/maskie<num>.png",
+				"dynamicsImages" : "/celestial/system/terrestrial/dynamics/az-ringworld/<num>.png",
+				"dynamicsRange" : [1, 3]
+			}
+		},
+		{	"op" : "add",
+			"path" : "/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
+			"value" : "az-ringworld"
+		},
+		{	"op" : "add",
+			"path" : "/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
+			"value" : "az-ringworld"
+		}
+	]
+]

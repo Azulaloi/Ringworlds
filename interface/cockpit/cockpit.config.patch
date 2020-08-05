@@ -1,0 +1,19 @@
+[
+	{	
+		"op" : "add",
+		"path" : "/visitableTypeDescription/az-ringworld",
+		"value" : [
+			"Yep, that sure is a ringworld."
+		]
+	},
+	{	
+		"op" : "add",
+		"path" : "/planetTypeNames/az-ringworld",
+		"value" : "Ringworld"
+	},
+	{	
+		"op" : "add",
+		"path" : "/planetTypeColors/az-ringworld",
+		"value" : [180, 180, 255]
+	}
+]

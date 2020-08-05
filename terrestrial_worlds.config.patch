@@ -1,0 +1,33 @@
+[
+	{	
+	    "op" : "add",
+		"path" : "/planetTypes/az-ringworld",
+		"value" : {
+			"threatRange" : [1, 6],
+			"layers" : {
+				"surface" : {
+				  "primaryRegion" : ["az-ringworld_temperate"],
+				  "secondaryRegions" : [ "garden", "jungle", "savannah" ],
+				  "dungeons" :
+				  [
+				    [1.0, "naturalcave"], [1.0, "gardengate"]
+				  ]
+				}
+			}
+		}
+	},
+	{	
+	    "op" : "add",
+		"path" : "/regionTypes/az-ringworld_temperate",
+		"value" : {
+		  "caveLiquid" : [ "water" ],
+		  "blockSelector" : [ "remixedMildSurface" ],
+		  "fgCaveSelector" : [ "surfaceCaves" ],
+		  "bgCaveSelector" : [ "empty" ],
+		  "biome" : [
+			[0, [ "forest" ]]
+		  ],
+		  "subRegion" : [ "spring", "mushroom", "giantflowers", "swamp", "alpine"]
+		}
+	}
+]
