@@ -4,7 +4,12 @@
 			"path" : "/terrestrialHorizonGraphics/az-ringworld",
 			"value" : {
 				"baseImages" : "/celestial/system/terrestrial/horizon/textures/az-ringworld_<selector>.png",
-				"maskPerPlanetRange" : [0, 0]
+				"maskTextures" : "/celestial/system/terrestrial/horizon/masks/az-ringworld/<mask>_<selector>.png",
+				"liquidTextures" : "/celestial/system/terrestrial/horizon/liquids/az-ringworld_<liquid>_<selector>.png",
+				"atmosphereTextures" : "/celestial/system/terrestrial/az-blank.png",
+				"shadowTextures" : "/celestial/system/terrestrial/az-blank.png",
+				"maskRange" : [1, 1],
+				"maskPerPlanetRange" : [1, 1]
 			}
 		},
 		{	"op" : "add",
