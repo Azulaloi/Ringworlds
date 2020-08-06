@@ -21,4 +21,16 @@
  //   "path": "/arrivalRange",
  //   "value": [0.5, 2.0]
 //  }
+
+
+ // {
+ //   "op": "replace",
+ //   "path": "/emptySkyParameters/skyType",
+ //   "value": "atmospheric"
+ // },
+ // {
+ //   "op": "replace",
+ //   "path": "/emptySkyParameters/horizonClouds",
+ //   "value": true
+ // } 
 ]

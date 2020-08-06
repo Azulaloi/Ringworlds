@@ -25,7 +25,7 @@
 		  "fgCaveSelector" : [ "surfaceCaves" ],
 		  "bgCaveSelector" : [ "empty" ],
 		  "biome" : [
-			[0, [ "forest" ]]
+			[0, [ "az-ringworld_forest" ]]
 		  ],
 		  "subRegion" : [ "spring", "mushroom", "giantflowers", "swamp", "alpine"]
 		}
