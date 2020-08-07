@@ -1,7 +1,7 @@
 {
   "name" : "az-ringworld_forest",
   "friendlyName" : "Forest",
-  "airless" : true,
+  //"airless" : true,
 
   "spawnProfile" : {
     "groups" : [
@@ -147,7 +147,7 @@
   "subBlocks" : [ "cobblestone" ],
   "ores" : "surface",
 
-  "parallax" : "/parallax/surface/forest.parallax",
+  "parallax" : "/parallax/surface/az-rw_forest.parallax",
 
   "ambientNoises" : {
     "day" : {
